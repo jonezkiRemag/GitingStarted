@@ -2,4 +2,4 @@
 
 #### A fun project to learn more about git with **DevMarketer**
 
-Adding Email
+Adding Email...editing.
